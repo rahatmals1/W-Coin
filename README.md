@@ -1,4 +1,4 @@
-# wcoin
+# W-Coin
 ##### a tool that helps to get unlimited amount of wcoin airdrop
 #### use Termux or Terminal  
 
